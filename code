@@ -1,0 +1,8 @@
+cd path/to/DP-SyllabusSpace   # go to your project folder
+git init
+git add .
+git commit -m "Initial commit: DP-SyllabusSpace website"
+git branch -M main
+git remote add origin https://github.com/YOUR_USERNAME/DP-SyllabusSpace.git
+git push -u origin main
+
